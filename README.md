@@ -1,3 +1,0 @@
-# TUX_SWIMS--Beta--
-Just a little game...
-sc
