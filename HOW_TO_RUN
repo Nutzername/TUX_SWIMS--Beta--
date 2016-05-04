@@ -1,0 +1,6 @@
+_______________________HOW TO RUN_______________________
+"TUX_SWIMS" comes with no application to install and it can not run by it self.
+You need "IDLE 3" to run and edit "TUX_SWIMS".
+Install "IDLE 3" with:
+|apt-get install IDLE3|
+|apt-get update|
